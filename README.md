@@ -6,15 +6,17 @@ I run [Zeroth](https://zeroth.company) from Brussels. Before that I spent ten ye
 
 ## What's running
 
-[Talent-Ray](https://talent-ray.com) is hiring, and the largest of the three. I'm co-founder and Head of Technology. It's live with more than 20 companies, runs on 38 background workers, and works in eleven languages.
+[Talent-Ray](https://talent-ray.com) is a hiring platform, and the largest of the three. I'm co-founder and Head of Technology. It's live with more than 20 companies, runs on 38 background workers, and works in eleven languages.
 
-Shipo does freight forwarding. Elefo does carbon.
+[Shipo](https://shipo.ai) does freight forwarding. [Elefo](https://elefo.ai) does carbon.
 
 ## How it gets built
 
-Almost all of my code lives in private repos, so the contribution graph is the honest part of this page.
+The contribution graph is real. It is also mostly not me typing. Most of those commits were made by coding agents running under my account, so the number measures the pipeline, not my keyboard.
 
-Behind it are orchestrators that take tickets off a board, hand them to coding agents, run the tests, and stop at a human gate before anything ships. One of these systems has done more than 3,400 autonomous agent runs in six months. I still read the diffs.
+The pipeline: orchestrators take tickets off a board, hand them to coding agents, run the tests, and stop at a human gate before anything ships. That gate is me. I still read the diffs. One of these systems has done more than 3,400 autonomous runs in six months.
+
+All of that code is the product codebases behind Talent-Ray, Shipo and Elefo, and it stays private, which is why there is nothing here to pin. This account has existed since 2015; I've just never used it as a portfolio. If you want to see how I work, ask. A walkthrough of a live system beats a sample repo.
 
 ## Contact
 
