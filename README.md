@@ -18,4 +18,4 @@ Behind it are orchestrators that take tickets off a board, hand them to coding a
 
 ## Contact
 
-[zeroth.company](https://zeroth.company)
+[zeroth.company](https://zeroth.company) · [LinkedIn](https://www.linkedin.com/in/mehmet-kaya-01)
