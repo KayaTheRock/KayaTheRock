@@ -6,7 +6,7 @@ I run [Zeroth](https://zeroth.company) from Brussels. Before that I spent ten ye
 
 ## What's running
 
-[Talent-Ray](https://talent-ray.com) is hiring, and the largest of the three. I'm co-founder and Head of Technology. It's live with more than 20 companies, runs on 38 background workers, and works in eleven languages, Arabic and Urdu included.
+[Talent-Ray](https://talent-ray.com) is hiring, and the largest of the three. I'm co-founder and Head of Technology. It's live with more than 20 companies, runs on 38 background workers, and works in eleven languages.
 
 Shipo does freight forwarding. Elefo does carbon.
 
