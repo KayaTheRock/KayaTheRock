@@ -2,7 +2,7 @@
 
 I build operations where agents do the work and people keep the decisions.
 
-I run [Zeroth](https://zeroth.company) from Brussels. Before that I spent ten years at PSI Metals building production planning and due-date quoting for steel plants in Germany, Turkey, Poland, Brazil and Indonesia, then five years at McKinsey as an Engagement Manager in operations. I've been the consultant who writes the plan and the engineer who makes it run.
+I run [Zeroth](https://zeroth.company) from Brussels. Before that I spent ten years at PSI Metals building production planning and due-date quoting for steel plants in Germany, Turkey, Poland, Brazil and Indonesia, then five years at McKinsey as an Engagement Manager in operations and digital transformation. I've been the consultant who writes the plan and the engineer who makes it run.
 
 ## What's running
 
